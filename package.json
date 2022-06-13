@@ -1,0 +1,7 @@
+{
+  "name": "hardhat-simple-storage-fcc",
+  "packageManager": "yarn@3.2.1",
+  "devDependencies": {
+    "tsconfig.json": "^1.0.11"
+  }
+}
